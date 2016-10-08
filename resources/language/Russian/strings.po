@@ -24,9 +24,43 @@ msgctxt "#32002"
 msgid "Random Items"
 msgstr "Случайные"
 
+#empty string with id 32003
+
+msgctxt "#32004"
+msgid "Randomize time (minutes)"
+msgstr "Случайное время (минуты)"
+
+msgctxt "#32005"
+msgid "Use season folders"
+msgstr "Использовать папки сезонов"
+
+msgctxt "#32006"
+msgid "Use timer"
+msgstr "Использовать таймер"
+
+msgctxt "#32007"
+msgid "After database update"
+msgstr "После обновления базы данных"
+
+msgctxt "#32008"
+msgid "Update method"
+msgstr "Метод обновления"
+
+msgctxt "#32009"
+msgid "Recent Items"
+msgstr "Последние"
+
+msgctxt "#32010"
+msgid "Update each time you enter the home screen"
+msgstr "Обновлять каждый раз при входе в главный экран"
+
+msgctxt "#32011"
+msgid "Only unplayed and unfinished"
+msgstr "Только непроигранное и незаконченное"
+
 msgctxt "#32012"
 msgid "General"
-msgstr "Использовать медиа обложки"
+msgstr "Общие"
 
 msgctxt "#32013"
 msgid "Show plot for unwatched items"
