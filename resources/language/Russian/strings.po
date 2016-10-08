@@ -52,7 +52,7 @@ msgstr "Последние"
 
 msgctxt "#32010"
 msgid "Update each time you enter the home screen"
-msgstr "Обновлять каждый раз при входе в главный экран"
+msgstr "Обновлять каждый раз при входе на главный экран"
 
 msgctxt "#32011"
 msgid "Only unplayed and unfinished"
