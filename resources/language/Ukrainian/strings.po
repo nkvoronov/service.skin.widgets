@@ -16,6 +16,48 @@ msgstr ""
 "Language: uk\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
+msgctxt "#32001"
+msgid "Recommended"
+msgstr "Рекомендуємо"
+
+msgctxt "#32002"
+msgid "Random Items"
+msgstr "Випадкові"
+
+#empty string with id 32003
+
+msgctxt "#32004"
+msgid "Randomize time (minutes)"
+msgstr "Випадкове час (хвилини)"
+
+msgctxt "#32005"
+msgid "Use season folders"
+msgstr "Використовувати папки сезонів"
+
+msgctxt "#32006"
+msgid "Use timer"
+msgstr "Використовувати таймер"
+
+msgctxt "#32007"
+msgid "After database update"
+msgstr "Після оновлення бази даних"
+
+msgctxt "#32008"
+msgid "Update method"
+msgstr "Метод відновлення"
+
+msgctxt "#32009"
+msgid "Recent Items"
+msgstr "Останні"
+
+msgctxt "#32010"
+msgid "Update each time you enter the home screen"
+msgstr "Оновлювати кожен раз при вході на головний екран"
+
+msgctxt "#32011"
+msgid "Only unplayed and unfinished"
+msgstr "Тільки непроігранное і незакінчене"
+
 msgctxt "#32012"
 msgid "General"
 msgstr "Загальні"
