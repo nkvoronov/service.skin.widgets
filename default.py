@@ -41,7 +41,7 @@ __addonname__    = __addon__.getAddonInfo('name')
 __localize__    = __addon__.getLocalizedString
 
 def log(txt):
-    message = '%s: %s' % (__addonname__, txt.encode('ascii', 'ignore'))
+    message = "%s: %s" % (__addonname__, txt)
     xbmc.log(msg=message, level=xbmc.LOGDEBUG)
 
 class Main:
@@ -786,9 +786,9 @@ class Widgets_Player(xbmc.Player):
         self.type = ""
 
 if (__name__ == "__main__"):
-    log('script version %s started' % __addonversion__)
+    log("script version %s started" % __addonversion__)
     Main()
     del Widgets_Monitor
     del Widgets_Player
     del Main
-    log('script version %s stopped' % __addonversion__)
+    log("script version %s stopped" % __addonversion__)
